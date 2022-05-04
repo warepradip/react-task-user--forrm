@@ -1,0 +1,26 @@
+[{
+        "id": 1,
+        "fullName": "Omkar Jakulwar",
+        "phoneNumber": "9862325141",
+        "email": "omkarjakulawar9@gmail.com"
+
+    },
+    {
+        "id": 2,
+        "fullName": "vaibhav uke",
+        "phoneNumber": "7256325896",
+        "email": "vaibhavuke98@gmail.com"
+    },
+    {
+        "id": 3,
+        "fullName": "ajay thakur",
+        "phoneNumber": "7256325896",
+        "email": "ajaythakur98@gmail.com"
+    },
+    {
+        "id": 4,
+        "fullName": "shyam sharma",
+        "phoneNumber": "7256325896",
+        "email": "shamsharma98@gmail.com"
+    }
+]
